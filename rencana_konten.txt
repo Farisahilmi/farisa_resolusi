@@ -2,7 +2,10 @@ rencana konten farisa
 - javascript 
   - ES6
   - FRAMEWORK JAVASCRIPT
+  - Vue
 - Struktur Data Dasar
 - php frameworks
+  - Laravel
 - interview
 - vlogs
+- python
