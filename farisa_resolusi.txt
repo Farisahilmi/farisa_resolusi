@@ -2,3 +2,5 @@ Farisa resolusi
 - Belajar Git
 - Belajar Github
 - Belajar Version control system
+- Belajar Bahasa Pemrograman Baru
+- Kolaborasi dengan lebih banyak expert
