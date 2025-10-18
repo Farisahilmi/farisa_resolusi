@@ -2,7 +2,9 @@ rencana konten farisa
 - javascript 
   - ES6
   - FRAMEWORK JAVASCRIPT
-- Struktur Data Dasar
+  - angular
+  - react
 - php frameworks
+  - laraver
 - interview
 - vlogs
