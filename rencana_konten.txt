@@ -1,5 +1,7 @@
 rencana konten farisa
-- javascript
+- javascript 
+  - ES6
+  - FRAMEWORK JAVASCRIPT
 - php frameworks
 - interview
 - vlogs
