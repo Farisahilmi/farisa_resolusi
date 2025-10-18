@@ -1,0 +1,5 @@
+rencana konten farisa
+- javascript
+- php frameworks
+- interview
+- vlogs
