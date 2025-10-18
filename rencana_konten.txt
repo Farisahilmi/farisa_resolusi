@@ -3,6 +3,7 @@ rencana konten farisa
   - ES6
   - FRAMEWORK JAVASCRIPT
   - Vue
+  - raect
 - Struktur Data Dasar
 - php frameworks
   - Laravel
