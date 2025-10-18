@@ -1,0 +1,4 @@
+Farisa resolusi 
+- Belajar Git
+- Belajar Github
+- Belajar Version control system
